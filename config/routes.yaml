@@ -1,0 +1,19 @@
+# index:
+#    path: /
+#    controller: App\Controller\CarsController::index
+
+# new:
+#    path: /new
+#    controller: App\Controller\CarsController::new
+
+# new:
+#    path: /{id}
+#    controller: App\Controller\CarsController::{id}
+
+# new:
+#    path: /{id}/edit
+#    controller: App\Controller\CarsController::{id}/edit
+
+# new:
+#    path: /new
+#    controller: App\Controller\CarsController::new
